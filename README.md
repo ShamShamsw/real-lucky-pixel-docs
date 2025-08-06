@@ -1,6 +1,6 @@
 # real-lucky-pixel-docs
 
-![Site Preview](assets/LegoInitialDraft.png)
+![Site Preview](assets/Lego/LegoInitialDraft.png)
 
 ## Overview
 
@@ -37,7 +37,7 @@ This repository contains setup guides, architecture notes, best practices, updat
 
 ## Visuals
 
-![LEGO Preview](assets/LegoInitialDraft.png)
+![LEGO Preview](assets/Lego/LegoInitialDraft.png)
 *(Add more screenshots and diagrams in the assets folder!)*
 
 ---
