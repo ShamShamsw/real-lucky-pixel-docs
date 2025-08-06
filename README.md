@@ -61,9 +61,17 @@ This documentation is released under the [MIT License](LICENSE).
 
 ## Badges (not currently opperationg yet 8-6-2025)
 
-![Build Status](https://github.com/ShamShamsw/real-lucky-pixel-docs/actions/workflows/main.yml/badge.svg)
-![License](https://img.shields.io/github/license/ShamShamsw/real-lucky-pixel-docs)
-![Last Update](https://img.shields.io/github/last-commit/ShamShamsw/real-lucky-pixel-docs)
+- **Build Status**  
+  ![Build Status](https://github.com/ShamShamsw/real-lucky-pixel-docs/actions/workflows/main.yml/badge.svg)
+
+- **License**  
+  ![License](https://img.shields.io/github/license/ShamShamsw/real-lucky-pixel-docs)
+
+- **Last Update**  
+  ![Last Update](https://img.shields.io/github/last-commit/ShamShamsw/real-lucky-pixel-docs)
+
+- **Documentation Status**  
+  *(To be added)*
 
 ---
 
