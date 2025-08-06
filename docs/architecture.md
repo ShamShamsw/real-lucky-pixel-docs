@@ -1,42 +1,42 @@
-# Setup Guide
+# Site Architecture
 
-Welcome to the setup guide for the `real-lucky-pixel-docs` repository!
+This page outlines the structure and design principles of the real_lucky_pixel site.
 
-## 1. Clone the Repository
+## High-Level Structure
 
-```bash
-git clone https://github.com/ShamShamsw/real-lucky-pixel-docs.git
-cd real-lucky-pixel-docs
+- **Landing Page:** Full-screen LEGO city image with a welcoming, motivational title.
+- **Welcome Page:** Main account introduction, community message, and a learn button.
+- **Feature Highlights:** Three horizontally-split rectangles highlighting trust, opportunity, and browsing experience.
+- **Affiliate Links:** Section for featured affiliate shopping links.
+- **Best Sellers:** Display of popular and best-selling LEGO sets.
+- **Belonging Page:** Message of inclusion, short title, description, and a CTA button.
+- **Thank You & Feedback:** Heading, quick poll/quiz for feedback before leaving.
+- **Socials Page:** Social media bar and creative connection prompt.
+
+## File & Folder Structure
+
+```
+/
+├── docs/
+│   ├── setup.md
+│   ├── architecture.md
+│   ├── usage.md
+│   └── roadmap.md
+├── assets/
+│   └── [images, diagrams]
+├── changelog/
+│   └── CHANGELOG.md
+├── templates/
+│   └── [issue/pr templates]
+├── README.md
+└── CONTRIBUTING.md
 ```
 
-## 2. Folder Structure
+## Design Principles
 
-- `/docs/` — Documentation (guides, architecture, usage, roadmap)
-- `/assets/` — Images, diagrams, site previews
-- `/changelog/` — Update logs
-- `/templates/` — Contribution templates
-
-## 3. Prerequisites
-
-No specific build tools required for documentation.  
-To view or edit site drafts, ensure you have a Markdown editor and basic knowledge of HTML/CSS.
-
-## 4. How to Contribute
-
-See [CONTRIBUTING.md](../CONTRIBUTING.md) for details on how to suggest changes or submit improvements.
-
-## 5. Preview Visuals
-
-All screenshots, diagrams, and site previews can be found in the `/assets/` folder.
-
-## 6. Update
-
-Keep your local repository up-to-date:
-
-```bash
-git pull origin main
-```
+- **Welcoming & Inclusive:** Friendly copy and visuals.
+- **Professional & Trustworthy:** Highlight unique products, community, and ease of use.
+- **Visual-First:** Screenshots, diagrams, and banners for clarity.
+- **Modular:** Each section/page is clearly defined and easy to update.
 
 ---
-
-Need help? Open an issue or contact [ShamShamsw](https://github.com/ShamShamsw).
