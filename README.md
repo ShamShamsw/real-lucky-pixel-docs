@@ -38,7 +38,6 @@ This repository contains setup guides, architecture notes, best practices, updat
 ## Visuals
 
 ![LEGO Preview](assets/Lego/LegoInitialDraft.png)
-*(Add more screenshots and diagrams in the assets folder!)*
 
 ---
 
